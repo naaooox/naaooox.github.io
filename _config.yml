@@ -27,7 +27,7 @@ navbar-links:
 avatar: "/assets/img/Capture d’écran 2021-11-23 145131.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: False
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -39,8 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: naopiquet@gmail.com
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: naopiquet@gmail.com  # remove this line if you don't want to show an RSS link at the bottom
   facebook: naopiquet
   github: naaooox
   twitter: naaooo
@@ -103,17 +102,17 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+navbar-col: "#72738C"
+navbar-text-col: "#1A1C40"
+navbar-border-col: "#72738C"
+page-col: "#494FBF"
+text-col: "#1A1C40"
+link-col: "#4449A6"
+hover-col: "#72738C"
+footer-col: "#72738C"
+footer-text-col: "#1A1C40"
+footer-link-col: "#4449A6"
+footer-hover-col: "#72738C"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
