@@ -8,7 +8,7 @@ Je suis Nao Piquet étudiant de troisième année de design numérique au lycée
 
 ### Voici mon Cv
 
-J'aime les graphismes épurés et je suis fan de typo et de cartographie 
+J'aime les effest spéciaux et l'univers de l'aviation.
 
-![carte kerveur](/assets/img/carte_kerveur.png)
+![carte kerveur](/assets/img/Bleu Minimal Infographique CV.pdf)
 
