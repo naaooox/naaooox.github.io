@@ -104,15 +104,15 @@ post_search: true
 
 navbar-col: "#494FBF"
 navbar-text-col: "#1A1C40"
-navbar-border-col: "#1A1C40"
+navbar-border-col: "#494FBF"
 page-col: "#F2F2F2"
 text-col: "#1A1C40"
-link-col: "#1A1C40"
-hover-col: "#494FBF"
+link-col: "#494FBF"
+hover-col: "#1A1C40"
 footer-col: "#494FBF"
 footer-text-col: "#1A1C40"
-footer-link-col: "#1A1C40"
-footer-hover-col: "#494FBF"
+footer-link-col: "#494FBF"
+footer-hover-col: "#1A1C40"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
