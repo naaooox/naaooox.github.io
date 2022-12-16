@@ -104,14 +104,14 @@ post_search: true
 
 navbar-col: "#494FBF"
 navbar-text-col: "#1A1C40"
-navbar-border-col: "#494FBF"
+navbar-border-col: "#1A1C40"
 page-col: "#F2F2F2"
 text-col: "#1A1C40"
-link-col: "#0554F2"
+link-col: "#1A1C40"
 hover-col: "#494FBF"
 footer-col: "#494FBF"
 footer-text-col: "#1A1C40"
-footer-link-col: "#0554F2"
+footer-link-col: "#1A1C40"
 footer-hover-col: "#494FBF"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
