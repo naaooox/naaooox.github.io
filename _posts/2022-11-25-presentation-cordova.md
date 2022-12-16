@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Présentation de Cordova
-subtitle: Un framework multiOS pour applications mobiles 
-cover-img: /assets/img/Capture d’écran 2021-11-23 145131.png
-thumbnail-img: /assets/img/Capture d’écran 2021-11-23 145131.png
-share-img: /assets/img/Capture d’écran 2021-11-23 145131.png
+title: Photomontage
+subtitle: Travail de cours
+cover-img: /assets/img/photomontage main.png
+thumbnail-img: /assets/img/photomontage main.png
+share-img: /assets/img/photomontage main.png
 tags: [Design, Art]
 ---
 
-## Cordova permet de créer des applications mobiles interopérables
+## Photomontage sur la relation Homme Art
 
-Voir la [documentation](https://cordova.apache.org/) cordova
+j'ai réalisé ce travail en cours pour exprimer la relation entre l'homme et l'art.
