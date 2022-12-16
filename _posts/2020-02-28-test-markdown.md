@@ -1,11 +1,11 @@
 ---
-layout: Typographie
-title: Typographie chromé
-subtitle: Voici une typographie que j'ai réalisé
+layout: post
+title: Typographie Optimus
+subtitle: Création d'une typographie chromé
+cover-img: /assets/img/Sans titre-1.png
 thumbnail-img: /assets/img/Sans titre-1.png
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [Typographie, Chrome, Optimus]
-tags: [test]
-comments: true
+share-img: /assets/img/Sans titre-1.png
+tags: [Typographie, Chrome]
 ---
-J'ai réalisé cette typographie sur Illustrator et je l'ai paufiné sur photoshop. je l'ai nommé optimus.
+
+Voici une typographie customisé que j'ai réalisé sur illustrator et que j'ai paufiné sur photoshop.
