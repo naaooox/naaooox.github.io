@@ -104,7 +104,7 @@ post_search: true
 
 navbar-col: "#494FBF"
 navbar-text-col: "#1A1C40"
-navbar-border-col: "#72738C"
+navbar-border-col: "#494FBF"
 page-col: "#F2F2F2"
 text-col: "#1A1C40"
 link-col: "#0554F2"
@@ -112,7 +112,7 @@ hover-col: "#494FBF"
 footer-col: "#494FBF"
 footer-text-col: "#1A1C40"
 footer-link-col: "#0554F2"
-footer-hover-col: "#72738C"
+footer-hover-col: "#494FBF"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
