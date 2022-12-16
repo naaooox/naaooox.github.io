@@ -10,5 +10,5 @@ Je suis Nao Piquet étudiant de troisième année de design numérique au lycée
 
 J'aime les effest spéciaux et l'univers de l'aviation.
 
-![carte kerveur](/assets/img/Bleu Minimal Infographique CV.pdf)
+"(/assets/img/Bleu Minimal Infographique CV.pdf)"
 
