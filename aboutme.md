@@ -10,5 +10,5 @@ Je suis Nao Piquet étudiant de troisième année de design numérique au lycée
 
 J'aime les effest spéciaux et l'univers de l'aviation.
 
-!(/assets/img/Cv3.png)
+![Curriculum Vitae](/assets/img/Cv3.png)
 
